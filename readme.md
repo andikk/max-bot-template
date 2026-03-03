@@ -5,3 +5,6 @@ BOT_TOKEN = токен_вашего_бота
 
 # Для запуска бота 
 Для запуска бота введите команду npm start и откройте в браузере ссылку на бота, например, https://max.ru/my_test_bot
+
+# Документация
+https://dev.max.ru/docs/chatbots/bots-coding/hellobot/js
